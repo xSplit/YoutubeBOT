@@ -1,2 +1,2 @@
 # YoutubeBOT
-Sources of old youtube bot
+Sources of old/unfinished youtube bot
